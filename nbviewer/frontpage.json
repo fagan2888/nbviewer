@@ -36,7 +36,12 @@
         "text": "Probabilistic Programming",
         "target": "github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1_Introduction.ipynb",
         "img": "/static/img/example-nb/probabilistic-bayesian.png"
-      }
+      },
+      {
+        "text": "Kalman Filtering",
+        "target": "github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipy",
+        "img": "/static/img/example-nb/kalman-filtering.png"
+      }	  
     ]
   },
   {
