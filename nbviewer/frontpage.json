@@ -39,7 +39,7 @@
       },
       {
         "text": "Kalman Filtering",
-        "target": "github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipy",
+        "target": "github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb",
         "img": "/static/img/example-nb/kalman-filtering.png"
       }	  
     ]
